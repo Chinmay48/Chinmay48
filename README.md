@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Full-Stack+Architect+(MERN+%2B+Django);AI+Geospatial+Intelligence+Researcher;UI%2FUX+Design+Enthusiast;Final+Year+Computer+Engineering+@+TCET" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C4FF&center=true&vCenter=true&width=800&lines=Full-Stack+Architect+(MERN+%2B+Django);AI+Geospatial+Intelligence+Researcher;UI%2FUX+Design+Enthusiast;Third+Year+Computer+Engineering+@+TCET" />
 </p>
 
 ---
