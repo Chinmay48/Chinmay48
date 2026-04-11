@@ -40,17 +40,17 @@
 
 ---
 
-# 🧠 Coding Profiles (Add Yours 🔥)
-
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  </a>
-</p>
-
+# 🧠 LeetCode Stats
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/Chinmay48?theme=dark&font=baloo&ext=contest" />
+    </td>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/Chinmay48?theme=dark&ext=heatmap" />
+    </td>
+  </tr>
+</table>
 ---
 
 # 🏆 GitHub Achievements
