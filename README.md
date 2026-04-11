@@ -48,7 +48,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chinmay48&theme=radical&no-frame=false&margin-w=15&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Chinmay48&theme=radical&no-frame=true&row=2&column=4" />
 </p>
 
 ---
