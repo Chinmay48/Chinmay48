@@ -115,7 +115,7 @@ Tech: Python + FastMCP
   <a href="mailto:chinmaytakke48@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://chinmay48.github.io/">
+  <a href="https://myportfolio1-teal-ten.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-FF007F?style=for-the-badge&logo=safari" />
   </a>
 </p>
